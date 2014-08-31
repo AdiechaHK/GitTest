@@ -4,6 +4,6 @@
 	</head>
 	<body>
 
-		<h1>this is contact us.</h1>
+		<h1>Contact Us</h1>
 	</body>
 </html>
